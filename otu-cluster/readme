@@ -15,7 +15,7 @@ It generates OTU tables and OTUs represented rice Mt-16S-rRNA
 
 
 2. R codes to summarizing the OTU table
-    vsearch100.analysis.Git-hub.R    The R script i used to analyze the OTU table and draw the plot for the manuscript.
+    vsearch100.analysis.Git-hub.xxx.R    The R script i used to analyze the OTU table and draw the plot for the manuscript.
 
  
 *Note.
