@@ -1,0 +1,13 @@
+Compartment,Plant_sample,Seq_ID,mt-gRNA,cp-gRNA,Cas9,Cycle_No
+Soil,V4Soil_1,V4BS1,gRNA780,gRNA578,Yes,8
+Soil,V4Soil_2,V4BS2,gRNA780,gRNA578,Yes,8
+Soil,V4Soil_3,V4BS3,gRNA780,gRNA578,Yes,8
+Soil,V4Soil_1,V4BS4,gRNA780,gRNA578,No,8
+Soil,V4Soil_2,V4BS5,gRNA780,gRNA578,No,8
+Soil,V4Soil_3,V4BS6,gRNA780,gRNA578,No,8
+leaf,V4leaf_1,V4leaf1,gRNA780,gRNA578,Yes,8
+leaf,V4leaf_2,V4leaf2,gRNA780,gRNA578,Yes,8
+leaf,V4leaf_3,V4leaf3,gRNA780,gRNA578,Yes,8
+leaf,V4leaf_1,V4leaf4,No,,No,8
+leaf,V4leaf_2,V4leaf5,No,,No,8
+leaf,V4leaf_3,V4leaf6,No,,No,8
